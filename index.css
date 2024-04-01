@@ -1,0 +1,68 @@
+link {
+    display: none;
+}
+
+*{
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+h1 {
+    color: green;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    
+}
+h2{
+    color:rgb(16, 144, 203);
+    font-family: impact;
+    font-size: 50px;
+}
+p{
+    color: gray;
+}
+.text-background {
+    background-image: url('koboT.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 40px;
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+.header.text{
+    color: blue;
+    text-align: center ;
+}
+div {
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.header{
+    height: 20px;
+    border-color: green;
+    border-style: solid;
+    text-align: center;
+    font-size: 25px;
+}
+.nav {
+    height: 20px;
+    border-color: pink;
+    border-style: solid;
+    text-align: center;
+}
+.gambar {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.aside{
+    text-align: left;
+    color: black;
+    font-family: verdana;
+    font-size: 40px;
+    height: 80px;
+}
